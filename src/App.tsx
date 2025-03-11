@@ -42,7 +42,6 @@ const App = () => {
       author: "Win Butler",
       background: "bg-gradient-to-br from-green-50 to-green-100",
       image: "https://raw.githubusercontent.com/bakytzhank/my-swot-app/main/img/strength.jpg"
-"
     },
     weaknesses: { 
       color: "bg-red-500", 
