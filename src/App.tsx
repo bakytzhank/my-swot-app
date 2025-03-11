@@ -41,7 +41,8 @@ const App = () => {
       quote: "Everyone has their own talents. It's up to the individual to see what you can actually do.",
       author: "Win Butler",
       background: "bg-gradient-to-br from-green-50 to-green-100",
-      image: "https://github.com/bakytzhank/my-swot-app/blob/646b4737bb42367693703e70446ad46e83994e0a/img/strength.jpg"
+      image: "https://raw.githubusercontent.com/bakytzhank/my-swot-app/main/img/strength.jpg"
+"
     },
     weaknesses: { 
       color: "bg-red-500", 
@@ -50,7 +51,7 @@ const App = () => {
       quote: "The only real mistake is the one from which we learn nothing.",
       author: "Henry Ford",
       background: "bg-gradient-to-br from-red-50 to-red-100",
-      image: "https://github.com/bakytzhank/my-swot-app/blob/646b4737bb42367693703e70446ad46e83994e0a/img/weakness.jpg"
+      image: "https://raw.githubusercontent.com/bakytzhank/my-swot-app/main/img/weakness.jpg"
     },
     opportunities: { 
       color: "bg-blue-500", 
@@ -59,7 +60,7 @@ const App = () => {
       quote: "In the middle of difficulty lies opportunity.",
       author: "Albert Einstein",
       background: "bg-gradient-to-br from-blue-50 to-blue-100",
-      image: "https://github.com/bakytzhank/my-swot-app/blob/646b4737bb42367693703e70446ad46e83994e0a/img/opportunity.jpg"
+      image: "https://raw.githubusercontent.com/bakytzhank/my-swot-app/main/img/opportunity.jpg"
     },
     threats: { 
       color: "bg-yellow-500", 
@@ -68,7 +69,7 @@ const App = () => {
       quote: "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
       author: "Sun Tzu",
       background: "bg-gradient-to-br from-yellow-50 to-yellow-100",
-      image: "https://github.com/bakytzhank/my-swot-app/blob/646b4737bb42367693703e70446ad46e83994e0a/img/threat.jpg"
+      image: "https://raw.githubusercontent.com/bakytzhank/my-swot-app/main/img/threat.jpg"
     }
   };
   
